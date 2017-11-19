@@ -42,8 +42,6 @@ Ariel
 Arista
 Armoire
 Arthur/Wart
-
-
 Arthur
 Assistant Mayor Dawn Bellwether
 Atka
@@ -61,7 +59,6 @@ Babette
 Babyface Beagle
 Baby Red Bird
 Baby Herman
-
 Backwoods Beagle
 Bacon Beagle
 Baggy Beagle
@@ -72,8 +69,6 @@ Baker
 Ballerina
 Baloo Bear
 Bambi
-
-
 Bambi's Mother
 Banzai
 Bankjob Beagle
@@ -757,7 +752,6 @@ Roger Radcliffe
 Rolly
 Ronno
 Roo
-
 Roquefort the Mouse
 Roscoe
 The Rose
@@ -797,7 +791,6 @@ Shun Gon the Chinese Cat
 Si & Am
 Silvermist
 Simba
-
 Sir Ector
 Sir Giles
 Sir Hiss
@@ -845,7 +838,6 @@ Tantor
 Tantor's Mother
 Taran
 Tarzan
-
 Taurus Bulba
 Ted Betterhead
 Terence
